@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{089F8F37-72E7-4875-BC5E-97842B98C017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{089F8F37-72E7-4875-BC5E-97842B98C017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{39BB1856-C5DD-456B-A2AD-2EBBA1C93A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacci", "fibonacci\fibonacci.csproj", "{39BB1856-C5DD-456B-A2AD-2EBBA1C93A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harmaidkhet", "WinFormsApp1\harmaidkhet.csproj", "{BD316162-5C88-45BC-A40D-07A9D2E5592C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{39BB1856-C5DD-456B-A2AD-2EBBA1C93A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39BB1856-C5DD-456B-A2AD-2EBBA1C93A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39BB1856-C5DD-456B-A2AD-2EBBA1C93A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD316162-5C88-45BC-A40D-07A9D2E5592C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD316162-5C88-45BC-A40D-07A9D2E5592C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD316162-5C88-45BC-A40D-07A9D2E5592C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD316162-5C88-45BC-A40D-07A9D2E5592C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
